@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NetworkTimeSync",
+	"Description": "A simple implementation of a NTP clock algorithm for more accurate network time sync between server and clients.",
+	"Category": "Other",
+	"CreatedBy": "Younes Meziane",
+	"CreatedByURL": "https://erlite.dev/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NetworkTimeSync",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
